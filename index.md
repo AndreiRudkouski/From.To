@@ -1,3 +1,11 @@
+## Privacy Policy
+
+If you choose to use this app, then you agree with the conditions described in this Privacy Policy.
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AndreiRudkouski/From.To/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
