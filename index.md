@@ -2,44 +2,34 @@
 
 If you choose to use this app, then you agree with the conditions described in this Privacy Policy.
 
+### About the app
 
+The app was created as free software and is intended for use as is.
 
+All data is taken from open sources so they can have errors and unfortunately, there is nothing we can do about it.
 
+It should also be kept in mind that deviations from the schedule from -5 to +3 minutes are permissible, and more significant delays in time may occur due to traffic congestions, difficult traffic conditions, etc., therefore, the actual data may differ from the data in the app and this should be taken into account when planning your trip.
 
-## Welcome to GitHub Pages
+### Information Collection and Use
 
-You can use the [editor on GitHub](https://github.com/AndreiRudkouski/From.To/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The app doesn't collect and use your personal information, but the app does use third party services that may collect information used to identify you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Links to the privacy policy of third-party services used by the app:
 
-### Markdown
+[Google Play Services](https://policies.google.com/privacy)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[AdMob](https://support.google.com/admob/answer/6128543)
 
-```markdown
-Syntax highlighted code block
+In addition, the application uses internet connection to update data, so data sources can collect information about your device and use it at your discretion.
 
-# Header 1
-## Header 2
-### Header 3
+### Links to Other Sites
 
-- Bulleted
-- List
+The app may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-1. Numbered
-2. List
+### Changes to the Privacy Policy
 
-**Bold** and _Italic_ and `Code` text
+We may update our Privacy Policy from time to time. Thus, we advise you to review the Privacy Policy periodically for any changes. These changes are effective immediately after their publication.
 
-[Link](url) and ![Image](src)
-```
+### Contact Us
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreiRudkouski/From.To/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions, do not hesitate to contact us: [app.from.to@gmail.com](mailto:app.from.to@gmail.com)
