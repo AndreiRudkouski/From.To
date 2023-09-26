@@ -18,6 +18,8 @@ Links to the privacy policy of third-party services used by the app:
 
 [Google Play Services](https://policies.google.com/privacy)
 
+[Firebase]([https://policies.google.com/privacy](https://firebase.google.com/support/privacy))
+
 [AdMob](https://support.google.com/admob/answer/6128543)
 
 In addition, the application uses internet connection to update data, so data sources can collect information about your device and use it at your discretion.
