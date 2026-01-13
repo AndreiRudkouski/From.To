@@ -1,14 +1,23 @@
 ## Privacy Policy
 
-If you choose to use this app, then you agree with the conditions described in this Privacy Policy.
+By using this app, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ### About the app
 
 The app was created as free software and is intended for use as is.
 
-All data is taken from open sources so they can have errors and unfortunately, there is nothing we can do about it.
+Public transport operation data is provided based on information from official open sources and may differ from actual vehicle movements.
 
-It should also be kept in mind that deviations from the schedule from -5 to +3 minutes are permissible, and more significant delays in time may occur due to traffic congestions, difficult traffic conditions, etc., therefore, the actual data may differ from the data in the app and this should be taken into account when planning your trip.
+### Data sources and disclaimer
+
+The application is an independent software product and is not an official application of the government authorities of the Republic of Belarus, Minsktrans State Enterprise, the Minsk Metro, or any other transport operators, and is not affiliated with them. Data on routes, stops, and public transport schedules is provided based on publicly available information from official sources:
+
+[minsktrans.by](https://minsktrans.by)
+
+[metropoliten.by](https://metropoliten.by)
+
+[gpmopt.by](https://gpmopt.by)
+
 
 ### Information Collection and Use
 
@@ -22,15 +31,21 @@ Links to the privacy policy of third-party services used by the app:
 
 [AdMob](https://support.google.com/admob/answer/6128543)
 
-In addition, the application uses internet connection to update data, so data sources can collect information about your device and use it at your discretion.
+In addition, the application uses internet connection to update data. These data sources may collect information about your device in accordance with their own privacy policies.
 
 ### Links to Other Sites
 
 The app may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+### Children’s Privacy
+
+This app is not intended for use by persons under the age of 13 and does not collect their personal data.
+
 ### Changes to the Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, we advise you to review the Privacy Policy periodically for any changes. These changes are effective immediately after their publication.
+
+Last updated: January 2026.
 
 ### Contact Us
 
