@@ -1,4 +1,5 @@
-## Privacy Policy
+## Privacy Policy for From.To app
+(This document explains how data is collected, used, and protected in accordance with Google Play policies.)
 
 By using this app, you agree to the collection and use of information in accordance with this Privacy Policy.
 
