@@ -1,53 +1,19 @@
+
 ## Privacy Policy for From.To app
-(This document explains how data is collected, used, and protected in accordance with Google Play policies.)
+(This document explains how data is collected, used, and protected in accordance with Google Play policies)
 
-By using this app, you agree to the collection and use of information in accordance with this Privacy Policy.
+<a href="/From.To/en/">View</a>
 
-### About the app
+---
 
-The app was created as free software and is intended for use as is.
+## Политика конфиденциальности приложения From.To
+(В этом документе описывается, как данные собираются, используются и защищаются в соответствии с требованиями Google Play)
 
-Public transport operation data is provided based on information from official open sources and may differ from actual vehicle movements.
+<a href="/From.To/ru/">Просмотреть</a>
 
-### Data sources and disclaimer
+---
 
-The application is an independent software product and is not an official application of the government authorities of the Republic of Belarus, Minsktrans State Enterprise, the Minsk Metro, or any other transport operators, and is not affiliated with them. Data on routes, stops, and public transport schedules is provided based on publicly available information from official sources:
+## Палітыка прыватнасці праграмы From.To
+(Гэты дакумент тлумачыць, як збіраюцца, выкарыстоўваюцца і абараняюцца даныя ў адпаведнасці з патрабаваннямі Google Play)
 
-[minsktrans.by](https://minsktrans.by)
-
-[metropoliten.by](https://metropoliten.by)
-
-[gpmopt.by](https://gpmopt.by)
-
-
-### Information Collection and Use
-
-The app doesn't collect and use your personal information, but the app does use third party services that may collect information used to identify you.
-
-Links to the privacy policy of third-party services used by the app:
-
-[Google Play Services](https://policies.google.com/privacy)
-
-[Firebase](https://firebase.google.com/support/privacy)
-
-[AdMob](https://support.google.com/admob/answer/6128543)
-
-In addition, the application uses internet connection to update data. These data sources may collect information about your device in accordance with their own privacy policies.
-
-### Links to Other Sites
-
-The app may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-### Children’s Privacy
-
-This app is not intended for use by persons under the age of 13 and does not collect their personal data.
-
-### Changes to the Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, we advise you to review the Privacy Policy periodically for any changes. These changes are effective immediately after their publication.
-
-Last updated: January 2026.
-
-### Contact Us
-
-If you have any questions or suggestions, do not hesitate to contact us: [app.from.to@gmail.com](mailto:app.from.to@gmail.com)
+<a href="/From.To/be/">Праглядзець</a>
