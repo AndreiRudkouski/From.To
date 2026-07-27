@@ -31,7 +31,7 @@
 [Google Play Services](https://policies.google.com/privacy?hl=be)  
 [Firebase](https://firebase.google.com/support/privac?hl=be)  
 [AdMob](https://support.google.com/admob/answer/6128543?hl=be)  
-[Adapty](https://adapty.io/$language/privacy/be)
+[Adapty](https://adapty.io/be/privacy)
 
 Акрамя таго, для абнаўлення даных праграма выкарыстоўвае злучэнне з інтэрнэтам. Гэтыя крыніцы даных могуць збіраць інфармацыю пра вашу прыладу ў
 адпаведнасці са сваімі ўласнымі палітыкамі канфідэнцыяльнасці.
