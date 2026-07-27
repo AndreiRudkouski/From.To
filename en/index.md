@@ -30,7 +30,7 @@ Links to the privacy policy of third-party services used by the app:
 [Google Play Services](https://policies.google.com/privacy?hl=en)  
 [Firebase](https://firebase.google.com/support/privac?hl=en)  
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)  
-[Adapty](https://adapty.io/$language/privacy/en)
+[Adapty](https://adapty.io/en/privacy)
 
 In addition, the application uses internet connection to update data. These data sources may collect information about your device in accordance with
 their own privacy policies.
