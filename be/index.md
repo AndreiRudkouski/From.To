@@ -25,10 +25,13 @@
 Праграма не збірае і не выкарыстоўвае вашу асабістую інфармацыю, але яна выкарыстоўвае іншыя сэрвісы, якія могуць збіраць інфармацыю, якая
 выкарыстоўваецца для вашай ідэнтыфікацыі.
 
+Для апрацоўкі плацяжоў, кіравання падпіскамі і прадастаўлення аналітыкі выкарыстання дадатку мы выкарыстоўваем сэрвіс Adapty.
+
 Спасылкі на карыстальніцкія пагадненні іншых сэрвісаў, якія выкарыстоўваюцца праграмай:  
-[Google Play Services](https://policies.google.com/privacy)  
-[Firebase](https://firebase.google.com/support/privacy)  
-[AdMob](https://support.google.com/admob/answer/6128543)
+[Google Play Services](https://policies.google.com/privacy?hl=be)  
+[Firebase](https://firebase.google.com/support/privac?hl=be)  
+[AdMob](https://support.google.com/admob/answer/6128543?hl=be)  
+[Adapty](https://adapty.io/$language/privacy/be)
 
 Акрамя таго, для абнаўлення даных праграма выкарыстоўвае злучэнне з інтэрнэтам. Гэтыя крыніцы даных могуць збіраць інфармацыю пра вашу прыладу ў
 адпаведнасці са сваімі ўласнымі палітыкамі канфідэнцыяльнасці.
