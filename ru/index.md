@@ -25,10 +25,13 @@
 Приложение не собирает и не использует вашу личную информацию, но оно использует сторонние сервисы, которые могут собирать информацию, используемую
 для вашей идентификации.
 
+Для обработки платежей, управления подписками и предоставления аналитики использования приложения мы используем сервис Adapty.
+
 Ссылки на пользовательские соглашения сторонних сервисов, используемых приложением:  
-[Google Play Services](https://policies.google.com/privacy)  
-[Firebase](https://firebase.google.com/support/privacy)  
-[AdMob](https://support.google.com/admob/answer/6128543)
+[Google Play Services](https://policies.google.com/privacy?hl=ru)  
+[Firebase](https://firebase.google.com/support/privac?hl=ruy)  
+[AdMob](https://support.google.com/admob/answer/6128543?hl=ru)
+[Adapty](https://adapty.io/$language/privacy/ru)
 
 Кроме того, для обновления данных приложение использует интернет соединение. Эти источники данных могут собирать информацию о вашем устройстве в
 соответствии со своими собственными политиками конфиденциальности.
