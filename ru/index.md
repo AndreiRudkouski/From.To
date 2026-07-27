@@ -29,8 +29,8 @@
 
 Ссылки на пользовательские соглашения сторонних сервисов, используемых приложением:  
 [Google Play Services](https://policies.google.com/privacy?hl=ru)  
-[Firebase](https://firebase.google.com/support/privac?hl=ruy)  
-[AdMob](https://support.google.com/admob/answer/6128543?hl=ru)
+[Firebase](https://firebase.google.com/support/privac?hl=ru)  
+[AdMob](https://support.google.com/admob/answer/6128543?hl=ru)  
 [Adapty](https://adapty.io/$language/privacy/ru)
 
 Кроме того, для обновления данных приложение использует интернет соединение. Эти источники данных могут собирать информацию о вашем устройстве в
